@@ -4,5 +4,7 @@ echo "<br>";
 echo $_SERVER["HTTPS"];
   
   exit();
+  
+  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 ?>
