@@ -5,6 +5,5 @@ echo $_SERVER["HTTPS"];
   
   exit();
   
-  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
+  ccccccc
 ?>
